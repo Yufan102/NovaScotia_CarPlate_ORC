@@ -1,5 +1,3 @@
-Banner: B00837694
-Name: Yufan Zhou
 
 Special Note
 
